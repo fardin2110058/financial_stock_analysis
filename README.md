@@ -25,8 +25,7 @@ MistralAI LLM (mistral-small-latest)
      ▼
 Streamlit UI
 Dataset
-The articles/ directory contains 570 HTML financial news articles sourced from Benzinga (BZ) and Briefing.com (BRFG/BRFUPDN), covering the following tickers:
-TickerCompanyAAPLAppleGOOGAlphabetMETAMeta PlatformsMSFTMicrosoftNVDANVIDIATSMTSMC
+The articles/ directory contains 570 HTML financial news articles sourced from Benzinga (BZ) and Briefing.com (BRFG/BRFUPDN)
 Articles span from January 2021 to April 2023. The articles.zip file contains the same dataset in compressed form.
 Prerequisites
 
